@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial scale=1">
+		<title>My First Website</title>
+	</head>
+	<body>
+
+		<h1>i am hello <i>koala<i/></h1>
+
+		 <a href= "#kitty" target = "_blank"> "<img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."> </a>	
+		<p>
+			who knows <a href= "#natoque">Natoque</a> sed <em>vulputate malesuada semper sagittis eu blandit montes, hendrerit scelerisque velit sapien vel tempor a iaculis urna, habitant lobortis condimentum<span style= "color: plum;"> massa </span>suspendisse felis est. Sapien eget sed sociis ultrices dapibus volutpat viverra lacinia eleifend per nisi curae velit mauris aliquet, sollicitudin nisl ornare a luctus aenean habitasse tempor fringilla potenti erat platea conubia integer. Convallis id ornare class potenti at per luctus erat vestibulum, porttitor duis et <a href="#pelle">pellentesque</a> ullamcorper tortor morbi ultrices ante taciti, penatibus cras porta hac vulputate cum semper mvagna
+		</p>
+		<p style= "color: palevioletred;"> <b> Here, dont know, I like this color, dont know why exactly</b></p>
+
+		<img src="https://www.freecatphotoapp.com/your-image.jpg">
+
+
+		<ul>
+			<li><a id="natoque">Natoque: feel <a/></li>
+			<li><a id="pelle">pellentesque: kids</a></li>
+		</ul>
+		</p>
+		<h1 id="kitty"> Cute Cat</h1>
+
+
+
+	</body>
+</html>
